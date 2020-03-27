@@ -11,5 +11,7 @@ border-radius: 30%;
 		line-height: 0.7}
 
 h1{color:purple;}
-p{font-family: sans-serif;color:white;
-line-height: 1.5em;}
+p{font-family: serif;
+		font-size: 150%;
+		color:white;
+		line-height: 1.5em;}
