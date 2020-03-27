@@ -2,10 +2,8 @@ img{border: 3;
 border-color: Green;
 border-radius: 30%;
 }
-		.send{background-image:url('https://1.bp.blogspot.com/-4_PBO9CftCQ/VwptXUbhvVI/AAAAAAAAADM/TmkAl5ss80s6twAZEX2CdJslRog-zQCqw/s1600/panda-bear-green-peace.jpg');
-		background-size: cover;
-		background-repeat: no-repeat;
-		background-attachment: center; } 
+		.send{background-image:url('https://1.bp.blogspot.com/-4_PBO9CftCQ/VwptXUbhvVI/AAAAAAAAADM/TmkAl5ss80s6twAZEX2CdJslRog-zQCqw/s1600/panda-bear-green-peace.jpg');}
+		  
 
 		body{background:#84CD8E ; } 
 
