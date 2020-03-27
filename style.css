@@ -10,4 +10,6 @@ border-radius: 30%;
 	div.a{font-size: 150%;
 		line-height: 0.7}
 
-h1{style="color:purple"}
+h1{color:purple;}
+p{font-family: sans-serif;color:white;
+line-height: 1.5em;}
