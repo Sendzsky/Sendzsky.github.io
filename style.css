@@ -1,4 +1,7 @@
-
+img{border: 3;
+border-color: white;
+border-radius: 30%;
+}
 		body{background-image:url('https://1.bp.blogspot.com/-4_PBO9CftCQ/VwptXUbhvVI/AAAAAAAAADM/TmkAl5ss80s6twAZEX2CdJslRog-zQCqw/s1600/panda-bear-green-peace.jpg');
 		background-size: cover;
 		background-repeat: no-repeat;
